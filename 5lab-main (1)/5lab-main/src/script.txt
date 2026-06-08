@@ -1,0 +1,6 @@
+help
+info
+show
+add {"name":"Змей Горыныч","age":999,"color":"ORANGE","type":"FIRE","character":"EVIL","coordinates":{"x":150,"y":80},"cave":{"numberOfTreasures":1000}
+save
+execute_script sc2.txt
